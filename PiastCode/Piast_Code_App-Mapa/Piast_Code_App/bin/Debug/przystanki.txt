@@ -1,0 +1,152 @@
+﻿1 Maja - Dworzec Główny|50,66341|17,92972
+1 Maja - Kasprowicza|50,66456|17,94543
+1 Maja - Katowicka|50,66373|17,93519
+1 Maja - Plebiscytowa|50,66402|17,94093
+1 Maja - Szkoła |50,66496|17,95114
+Al. Przyjaźni - Pętla|50,64875|17,94302
+Aleja Solidarności|50,6752|17,9698
+Aleja Solidarności - Koszalińska|50,67433|17,96289
+Armii Krajowej - Fabryczna|50,66038|17,94279
+Armii Krajowej - Katowicka|50,66131|17,93632
+Bierkowice - Pętla|50,68205|17,85445
+Budowlanych|50,68045|17,91536
+Budowlanych - Cygana|50,69012|17,91197
+Budowlanych - Harcerska|50,68393|17,9148
+Budowlanych - Kępska|50,69409|17,91088
+Budowlanych - Obwodnica|50,69763|17,90856
+Budowlanych - Prudnicka|50,68806|17,91343
+Chabrów|50,67998|17,93393
+Chabrów - Szkoła|50,68051|17,93007
+Cmentarz - Pętla|50,67691|17,88094
+Częstochowska - Działki|50,6726|17,99908
+Częstochowska - Działki Pętla|50,67255|18,01379
+Częstochowska - Pętla|50,67271|17,98659
+Częstochowska - Tysiąclecia|50,67271|17,98659
+Dambonia - Pętla|50,66176|17,88849
+Domańskiego - Ludowa|50,67131|17,89056
+Domańskiego - Cmentarna|50,67679|17,89006
+Domańskiego - Koszary|50,66703|17,89183
+Domańskiego - Lelewela|50,66237|17,89368
+Domańskiego - Zamiejska|50,6734|17,89098
+Drobiarska - Częstochowska|50,673|17,98776
+Drobiarska - Kolonijna|50,67572|17,98656
+Działkowa - MZK|50,69125|17,92454
+Fabryczna|50,66369|17,94204
+Frankiewicza|50,62435|17,9714
+Głogowska - Chłodnicza|50,66359|17,96361
+Głogowska - Pętla|50,65828|17,96579
+Głogowska - Pomorska|50,66718|17,96255
+Głogowska - Wschodnia|50,66154|17,96433
+Górna - Częstochowska|50,67294|17,98204
+Górna - Wygonowa|50,67743|17,98017
+Grotowice - Oświęcimska 168|50,5959|17,97668
+Grotowice - Oświęcimska 179|50,59378|17,97821
+Grotowice - Oświęcimska 200|50,5907|17,98158
+Grotowice - Pętla|50,58805|17,98636
+Grotowice - Żelazna|50,60035|17,9735
+Grudzice - Pętla|50,65526|17,98258
+Grudzicka|50,66247|17,98576
+Grudzicka - Szkoła|50,66524|17,98639
+Grudzicka - Wschodnia|50,65888|17,98414
+Horoszkiewicza|50,66998|17,95049
+Jagiellonów - Al. Przyjaźni|50,65111|17,94204
+Jagiellonów - Ostroroga|50,65376|17,95404
+Jagiellonów - Pobożnego|50,65158|17,94567
+Kazimierza Wielkiego|50,65143|17,95442
+Kępska - MZK|50,69437|17,92587
+Kolonijna|50,67532|17,98131
+Kołłątaja - Damrota - Dworzec Główny|50,66386|17,92746
+Książąt Opolskich - Rondo|50,67293|17,91887
+Luboszycka - Chabrów|50,68083|17,92558
+Luboszycka - Harcerska|50,68501|17,9261
+Luboszycka - MZK|50,69006|17,92727
+Luboszycka - Skrzyżowanie|50,7044|17,93602
+Luboszycka - Tatrzańska|50,67592|17,92319
+Malina|50,62139|18,0018
+Malina - Centrum|50,62237|17,99427
+Malina - Kościół|50,62198|17,99726
+Malina - Pętla|50,62227|18,00492
+Malina - Żeglarska|50,62254|17,98486
+Marka z Jemielnicy|50,65363|17,93668
+Marka z Jemielnicy - Aleja Przyjaźni|50,64734|17,94255
+Marka z Jemielnicy - Walecki|50,65524|17,9354
+Mieszka I|50,65571|17,95494
+Morcinka|50,65103|17,98595
+Morcinka - Kościół|50,64719|17,98648
+Niemodlińska|50,66186|17,88109
+Niemodlińska - Dambonia|50,66155|17,88544
+Niemodlińska - Domańskiego|50,66152|17,89327
+Niemodlińska - Koszyka|50,66648|17,90379
+Niemodlińska - skrzyżowanie|50,65666|17,87105
+Niemodlińska - Szkoła|50,66374|17,89852
+Nysy Łużyckiej - Rondo|50,67389|17,91954
+Obrońców Stalingradu|50,65483|17,9547
+Obrońców Stalingradu - Batorego|50,65339|17,95957
+Obrońców Stalingradu - CPN|50,65241|17,96325
+Okulickiego|50,67826|17,94001
+Oleska|50,67213|17,92781
+Oleska - Obwodnica|50,69532|17,95606
+Oleska - Okrąglak|50,67786|17,93626
+Oleska - Uniwersytet|50,67363|17,93061
+Oleska - Wiejska|50,69017|17,94946
+Oświęcimska - Osiedle|50,61526|17,96947
+Oświęcimska - Rudzkiego|50,62146|17,96628
+Oświęcimska - Smolki|50,61987|17,96763
+Oświęcimska - Szkoła|50,62424|17,96255
+Oświęcimska - Złota|50,60679|17,97129
+Ozimska - Dubois|50,66792|17,93103
+Ozimska - Głogowska|50,66906|17,96123
+Ozimska - Katowicka|50,66791|17,93807
+Ozimska - Malinka|50,66944|17,96866
+Ozimska - Małopolska|50,66878|17,95332
+Ozimska - Plebiscytowa|50,66824|17,94437
+Partyzancka - Wrocławska|50,67962|17,8902
+Piastowska|50,66695|17,92104
+Piastowska - Korfantego|50,66308|17,92191
+Popiełuszki - Kościół|50,6254|17,95965
+Popiełuszki - Mała|50,63605|17,95467
+Prosta|50,6504|17,98232
+Prószkowska - Politechnika|50,654|17,90594
+Pużaka - Brzozowa|50,68249|17,95462
+Pużaka - Oleska|50,68808|17,95001
+Pużaka - Osiedle|50,67872|17,95784
+Pużaka - Pętla|50,67804|17,95751
+Pużaka - Rondo|50,67549|17,96001
+Rejtana|50,65991|17,95584
+Rejtana - Urząd Skarbowy|50,66778|17,94957
+Reymonta|50,66445|17,92999
+Sosnkowskiego - Działki|50,67356|17,9458
+Sosnkowskiego - Fieldorfa|50,68431|17,94794
+Sosnkowskiego - Małopolska|50,67276|17,95278
+Sosnkowskiego - Politechnika|50,68055|17,94402
+Sosnkowskiego - Wiejska|50,67302|17,95713
+Sosnkowskiego - Wodociągowa|50,67598|17,94187
+Spychalskiego|50,66811|17,9127
+Strzelecka - Cmentarz|50,64757|17,9797
+Traugutta|50,62527|17,96426
+Tysiąclecia - Kościół|50,66847|17,97956
+Walecki|50,65765|17,93198
+Wiejska - Oleska|50,69021|17,95008
+Wiejska - Ozimska|50,67084|17,96312
+Wiejska - Straż|50,68458|17,95534
+Wiejska - Wygonowa|50,68016|17,9587
+Wojska Polskiego - Biasa|50,65858|17,89847
+Wojska Polskiego - Dworzec Zachodni|50,66119|17,89828
+Wójtowa Wieś - Pętla|50,64728|17,90644
+Wrocławska - Centrum Handlowe|50,68072|17,87755
+Wrocławska - Nysy Łużyckiej|50,67016|17,91299
+Wrocławska - Skansen|50,68167|17,86289
+Wróblewskiego - Pętla|50,6587|17,89515
+Wróblin - Cmentarz|50,71478|17,903
+Wróblin - Pętla|50,70537|17,90293
+Wróblin - Sobieskiego|50,70999|17,90428
+Wróblin - Sołtysów|50,70586|17,90554
+Wschodnia - Pętla|50,65994|17,98137
+Wschodnia - Stadion|50,65864|17,95763
+Wschodnia 23|50,66228|17,97466
+Wspólna - Wrocławska|50,68036|17,86944
+Wspólna 8|50,67279|17,87083
+Wygonowa|50,68124|17,97673
+Zbożowa - Przylesie|50,66856|17,87639
+Zbożowa 25|50,67461|17,87452
+Żytnia - Pętla|50,69619|17,96087

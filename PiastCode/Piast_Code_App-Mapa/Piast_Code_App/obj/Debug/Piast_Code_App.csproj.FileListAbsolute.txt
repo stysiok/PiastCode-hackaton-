@@ -1,0 +1,31 @@
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\bin\Debug\Piast_Code_App.exe.config
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\bin\Debug\Piast_Code_App.exe
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\bin\Debug\Piast_Code_App.pdb
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App.csprojResolveAssemblyReference.cache
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\MainWindow.g.cs
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\App.g.cs
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App_MarkupCompile.cache
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App_MarkupCompile.lref
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\MainWindow.baml
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App.g.resources
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App.Properties.Resources.resources
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App.csproj.GenerateResource.Cache
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App.exe
+c:\users\ryszard\documents\visual studio 2015\Projects\Piast_Code_App\Piast_Code_App\obj\Debug\Piast_Code_App.pdb
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\bin\Debug\Piast_Code_App.exe.config
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App.exe
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App.pdb
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App.csprojResolveAssemblyReference.cache
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\MainWindow.g.cs
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\App.g.cs
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App_MarkupCompile.cache
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App_MarkupCompile.lref
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\bin\Debug\Piast_Code_App.exe
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\bin\Debug\Piast_Code_App.pdb
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\MainWindow.baml
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App.g.resources
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App.Properties.Resources.resources
+C:\Users\stysi\Desktop\PiastCodeApp\PiastCode\Piast_Code_App-Mapa\Piast_Code_App\obj\Debug\Piast_Code_App.csproj.GenerateResource.Cache

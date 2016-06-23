@@ -1,0 +1,30 @@
+﻿kościół katedralny św krzyża:|50,670278|17,920278
+kościół św trójcy:|50,6675|17,922
+kościół matki boskiej:|50,66889|17,9252778
+kościół św sebastiana:|50,67061667|17,9219611
+kościół św aleksego:|50,6693667|17,9195944
+Kościół Świętych Apostołów...:|50,666944|17,9411
+wieża piastowska:|50,66722|17,9191667
+rartusz:|50,66833|17,922
+wieża ciśnień:|50,67611|17,931666944
+stara synagoga|50,6680556|17,9211
+cmentarz żydowski|50,65613889|17,932778
+dworzec głowny|50,6613889|17,92667
+gmach poczty:|50,66275|17,92530556
+mały rynek:|50,668116|17,924526
+muzeum śląska opolskiego|50,66896|17,924733
+pomnik żołnierzy wyklętych:|50,666591|17,923519
+filharmonia opolska:|50,665885|17,923784
+most groszowy:|50,665885|17,923184
+zoo:|50,655755|17,925346
+park os. ak:|50,678176|17,951593
+okrąglak:|50,677662|17,938408
+stadion odry:|50,675524|17,933309
+cmentaż ewangelicko-...:|50,674755|17,906664
+kościół bł. czesława:|50,666814|17,893468
+opolska brygada logistyczna:|50,6663889|17,89122
+kościół św józefa:|50,65448|17,904604
+centrum wystawienniczo-kongresowe:|50,683318|17,811896
+kampus uo:|50,973188|17,930883
+narodowe centrum piosenki:|50,667425|17,917385
+stadion żużlowy:|50,659697|17,959244

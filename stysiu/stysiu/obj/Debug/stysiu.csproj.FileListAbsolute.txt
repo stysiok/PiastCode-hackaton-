@@ -1,0 +1,12 @@
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\bin\Debug\stysiu.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\obj\Debug\stysiu.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\obj\Debug\stysiu.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\obj\Debug\stysiu.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\bin\Debug\stysiu.exe
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\bin\Debug\stysiu.pdb
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\obj\Debug\stysiu.Form1.resources
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\obj\Debug\stysiu.exe
+c:\users\adam\documents\visual studio 2015\Projects\stysiu\stysiu\obj\Debug\stysiu.pdb
+C:\Users\stysi\Desktop\PiastCodeApp\stysiu\stysiu\bin\Debug\stysiu.exe.config
+C:\Users\stysi\Desktop\PiastCodeApp\stysiu\stysiu\obj\Debug\stysiu.exe
+C:\Users\stysi\Desktop\PiastCodeApp\stysiu\stysiu\obj\Debug\stysiu.pdb
